@@ -38,3 +38,5 @@ rtcEngine.setAudioProfile(Constants.AUDIO_AUDIO_PROFILE_MUSIC_HIGH_QUALITY, Cons
 ## 开发注意事项
 - 该方法必须在加入频道之前调用
 - `scenario` 参数仅在频道模式设为直播时有效
+
+test！！！
